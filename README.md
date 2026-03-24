@@ -2,7 +2,7 @@
 
 ai already speaks sql. just let them at it.
 
-**[flex](https://github.com/damiandelmas/flex):** fastest way to give your agent vector retrieval.  
+**[flex](https://github.com/damiandelmas/flex):** fastest way to give your agent knowledge and memory.  
 **[flexvec](https://github.com/damiandelmas/flexvec):** bend your vectors before selection.
 
 Vancouver, BC  
