@@ -1,10 +1,10 @@
-## hey, i'm damian
+## Hey, I'm Damian
 
-ai already speaks sql. just let them at it.
+AI already speaks SQL. Just let them at it.
 
-**[flex](https://github.com/damiandelmas/flex):** fastest way to give your agent vector retrieval.  
-**[flexvec](https://github.com/damiandelmas/flexvec):** bend your vectors before selection.
+**[flex](https://github.com/damiandelmas/flex):** Fastest way to give your agent vector retrieval.  
+**[flexvec](https://github.com/damiandelmas/flexvec):** Bend your vectors before selection.
 
-vancouver, bc  
+Vancouver, BC  
 damian@getflex.dev  
 hit me up
