@@ -1,11 +1,10 @@
-# Damian Delmas
+## hey, i'm damian
 
-Independent researcher building open source knowledge infrastructure for AI agents.
+building knowledge and memory tools for AI agents.
 
-**flex** compiles artifacts into self-describing SQLite cells and lets agents query them with SQL that silently routes through external compute engines. **flexvec** is the retrieval kernel — exposing the embedding matrix as a programmable surface for composable modulations before selection.
+**[flex](https://github.com/damiandelmas/flex)** helps you search and retrieve 
+**[flexvec](https://github.com/damiandelmas/flexvec)** lets you do math on vectors
 
-- [flexvec](https://github.com/damiandelmas/flexvec) — retrieval kernel (MIT)
-- [flex](https://github.com/damiandelmas/flex) — knowledge engine (MIT)
-- [getflex.dev](https://getflex.dev)
-
-Vancouver, BC · damian@getflex.dev
+Vancouver, BC
+damian@getflex.dev
+hit me up
