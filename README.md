@@ -1,6 +1,6 @@
 ## hey, i'm damian
 
-ai already speaks sql. just let them have at it.
+here are a few projects i'm working on:
 
 **[flex](https://github.com/damiandelmas/flex):** fastest way to give your agent knowledge and memory.  
 **[flexvec](https://github.com/damiandelmas/flexvec):** bend your vectors before selection.
