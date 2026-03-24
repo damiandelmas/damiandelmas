@@ -1,10 +1,10 @@
 ## hey, i'm damian
 
-building knowledge and memory tools for AI agents.
+ai already speaks sql. just let them at it.
 
-**[flex](https://github.com/damiandelmas/flex)** helps you search and retrieve 
-**[flexvec](https://github.com/damiandelmas/flexvec)** lets you do math on vectors
+**[flex](https://github.com/damiandelmas/flex):** fastest way to give your agent vector retrieval.  
+**[flexvec](https://github.com/damiandelmas/flexvec):** bend your vectors before selection.
 
-Vancouver, BC
-damian@getflex.dev
+Vancouver, BC  
+damian@getflex.dev  
 hit me up
