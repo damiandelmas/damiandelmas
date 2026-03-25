@@ -3,7 +3,7 @@
 here are a few projects i'm working on:
 
 **[flex](https://github.com/damiandelmas/flex):** fastest way to give your agent knowledge and memory.  
-**[flexvec](https://github.com/damiandelmas/flexvec):** bend your vectors before selection.
+**[flexvec](https://github.com/damiandelmas/flexvec):** bend your embeddings before selection.
 
 Vancouver, BC  
 damian@getflex.dev  
