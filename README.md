@@ -1,9 +1,9 @@
-## hey, i'm damian
+## Hey, I'm Damian
 
-here are a few projects i'm working on:
+AI already speaks SQL. Just let them at it.
 
-**[flex](https://github.com/damiandelmas/flex):** fastest way to give your agent knowledge and memory.  
-**[flexvec](https://github.com/damiandelmas/flexvec):** bend your embeddings before selection.
+**[flex](https://github.com/damiandelmas/flex):** Fastest way to give your agent knowledge and memory.  
+**[flexvec](https://github.com/damiandelmas/flexvec):** Bend your vectors before selection. ([arXiv](https://arxiv.org/abs/2603.22587))
 
 Vancouver, BC  
 damian@getflex.dev  
